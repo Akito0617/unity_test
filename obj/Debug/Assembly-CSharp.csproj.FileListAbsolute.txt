@@ -1,0 +1,2 @@
+/Users/akito/Desktop/Unityファイル/New Unity Project/obj/Debug/Assembly-CSharp.csprojResolveAssemblyReference.cache
+/Users/akito/Desktop/Unityファイル/New Unity Project/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
